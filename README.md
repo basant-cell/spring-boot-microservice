@@ -25,7 +25,7 @@ run the jar
 -jar zipkin-server-2.5.2-exec.jar
 http://localhost:8765/currency-exchange-service/currency-exchange/from/EUR/to/INR
 http://localhost:8765/currency-conversion-service/currency-converter/from/EUR/to/INR/quantity/10000
-
+http://localhost:9411/zipkin/
 ### Prerequisites
 
 java 8 from oracle
